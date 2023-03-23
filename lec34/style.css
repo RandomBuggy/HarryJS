@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav ul {
+    display: flex;
+    background: grey;
+    margin: 0px;
+    padding: 5px 0px;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0px 23px;
+}

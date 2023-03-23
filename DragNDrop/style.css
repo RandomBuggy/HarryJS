@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: darkslateblue;
+}
+
+.imgBox {
+    background-image: url(./logo.png);
+    position: relative;
+    height: 96px;
+    width: 96px;
+    cursor: pointer;
+}
+
+.whiteBox {
+    display: inline-block;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 2px;
+    border: 2px solid black;
+}
+
+.hold {
+    border: 2px solid red;
+}
+
+.hide {
+    display: none;
+}
+
+.dashed {
+    background: violet;
+    border-style: dashed;
+}

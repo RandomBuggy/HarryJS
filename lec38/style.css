@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    background: cyan;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0px 23px;
+}

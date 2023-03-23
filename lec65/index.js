@@ -1,0 +1,13 @@
+/* 
+Write a javascript programme to pretend to look like a hacker, write a async function which will simply display the following output:-
+
+Initializing hack programme...
+
+Hacking Ashish's username...
+
+Username found Ashsh.I.T. ...
+
+Connecting to facebook...
+
+try to use HTML and Styling if possible
+*/
